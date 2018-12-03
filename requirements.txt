@@ -1,0 +1,8 @@
+wheel
+pip
+pandas
+jupyter
+gensim
+matplotlib
+bokeh
+
