@@ -28,6 +28,9 @@ With special focus on German text documents.
 About: Building, Evaluating, Visualizing Topic Models
 
   * [Gensim Tutorials](https://radimrehurek.com/gensim/tutorial.html)
+    * ...
+    * [Tutorial on Mallet in Python](https://rare-technologies.com/tutorial-on-mallet-in-python/) (2014-03-20)
+  * [MALLET](http://mallet.cs.umass.edu/)
   * [pyLDAvis Library](https://github.com/bmabey/pyldavis)
     * http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb
   * [Machine Learning Plus Tutorials](https://www.machinelearningplus.com/blog/) ([Topic Modeling](https://www.machinelearningplus.com/tag/topic-modeling/), [NLP](https://www.machinelearningplus.com/tag/nlp/))
