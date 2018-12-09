@@ -1,33 +1,44 @@
-# Natural Language Processing using Topic Models
+# Natural Language Processing (NLP) using Topic Modeling
 
 Application of topic models for topic extraction and similarity search.
 
 With special focus on German text documents.
 
-Covers:
+**Datasets:**
 
-  * LSI - Latent Semantic Indexing (SVD) **TODO**
+  * German political speeches
+  * German wikipedia articles **`TODO`**
+
+**Algorithms:**
+
+  * LSI - Latent Semantic Indexing (SVD) **`TODO`**
   * LDA - Latent Dirichlet Allocation
-  * NMF - Non-negative Matrix Factorization **TODO**
-  
+  * NMF - Non-negative Matrix Factorization **`TODO`**
+
+**Tools:**
+
   * Gensim
-  * NLTK **TODO**
-  * sklearn **TODO**
+  * NLTK **`TODO`**
+  * sklearn **`TODO`**
 
 ## Useful and inspirational resources
 
-### Topic Model Tutorials
+### Topic Modeling Tutorials
+
+About: Building, Evaluating, Visualizing Topic Models
 
   * [Gensim Tutorials](https://radimrehurek.com/gensim/tutorial.html)
-  * [Machine Learning Plus Tutorials](https://www.machinelearningplus.com/tag/topic-modeling/)
+  * [pyLDAvis Library](https://github.com/bmabey/pyldavis)
+    * http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb
+  * [Machine Learning Plus Tutorials](https://www.machinelearningplus.com/blog/) ([Topic Modeling](https://www.machinelearningplus.com/tag/topic-modeling/), [NLP](https://www.machinelearningplus.com/tag/nlp/))
     * [Topic modeling visualization – How to present the results of LDA models?](https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/) (2018-12-04)
-    * [LDA in Python – How to grid search best topic models?](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
-    * [Topic Modeling with Gensim](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
-  * https://datascienceplus.com/topic-modeling-in-python-with-nltk-and-gensim/
-
-### Topic Model Visualization
-
-  * http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb
+    * [LDA in Python – How to grid search best topic models?](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/) (2018-04-04)
+    * [Topic Modeling with Gensim](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/) (2018-03-26)
+    * [Lemmatization Approaches with Examples in Python](https://www.machinelearningplus.com/nlp/lemmatization-examples-python/) (2018-10-02)
+    * [Gensim Tutorial](https://www.machinelearningplus.com/nlp/gensim-tutorial/)
+  * [Data Science Plus Tutorials](https://datascienceplus.com/)
+    * [Topic Modeling in Python with NLTK and Gensim](https://datascienceplus.com/topic-modeling-in-python-with-nltk-and-gensim/) (2018-04-26)
+    * [Evaluation of Topic Modeling: Topic Coherence](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/) (2018-05-03)
 
 ### Topic Models applied on Wikipedia
 
