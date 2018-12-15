@@ -2,24 +2,28 @@
 
 Application of topic models for topic extraction and similarity search.
 
-With special focus on German text documents.
+With special focus on German texts.
 
 **Datasets:**
 
   * German political speeches
-  * German wikipedia articles **`TODO`**
+  * **`TODO`** German news articles
+  * **`TODO`** German Wikipedia articles
 
 **Algorithms:**
 
-  * LSI - Latent Semantic Indexing (SVD) **`TODO`**
+  * **`TODO`** LSI - Latent Semantic Indexing (SVD)
   * LDA - Latent Dirichlet Allocation
-  * NMF - Non-negative Matrix Factorization **`TODO`**
+  * **`TODO`** NMF - Non-negative Matrix Factorization
 
 **Tools:**
 
   * Gensim
-  * NLTK **`TODO`**
-  * sklearn **`TODO`**
+  * Mallet
+  * **`TODO`** NLTK
+  * **`TODO`** sklearn
+  * **`TODO`** BigARTM](http://bigartm.org/)
+  * **`TODO`** [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) (Online LDA)
 
 ## Useful and inspirational resources
 
@@ -28,9 +32,9 @@ With special focus on German text documents.
 About: Building, Evaluating, Visualizing Topic Models
 
   * [Gensim Tutorials](https://radimrehurek.com/gensim/tutorial.html)
-    * ...
+    * [Topics and Transformations](https://radimrehurek.com/gensim/tut2.html)
     * [Tutorial on Mallet in Python](https://rare-technologies.com/tutorial-on-mallet-in-python/) (2014-03-20)
-  * [MALLET](http://mallet.cs.umass.edu/)
+  * [Mallet](http://mallet.cs.umass.edu/)
   * [pyLDAvis Library](https://github.com/bmabey/pyldavis)
     * http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb
   * [Machine Learning Plus Tutorials](https://www.machinelearningplus.com/blog/) ([Topic Modeling](https://www.machinelearningplus.com/tag/topic-modeling/), [NLP](https://www.machinelearningplus.com/tag/nlp/))
@@ -42,6 +46,8 @@ About: Building, Evaluating, Visualizing Topic Models
   * [Data Science Plus Tutorials](https://datascienceplus.com/)
     * [Topic Modeling in Python with NLTK and Gensim](https://datascienceplus.com/topic-modeling-in-python-with-nltk-and-gensim/) (2018-04-26)
     * [Evaluation of Topic Modeling: Topic Coherence](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/) (2018-05-03)
+  * [Towards Data Science](https://towardsdatascience.com/)
+    * [The complete guide for topics extraction with LDA (Latent Dirichlet Allocation) in Python](https://towardsdatascience.com/the-complete-guide-for-topics-extraction-with-lda-latent-dirichlet-allocation-in-python-4d0200d0be98) (2018-12-14)
 
 ### Topic Models applied on Wikipedia
 

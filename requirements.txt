@@ -2,7 +2,11 @@ wheel
 pip
 pandas
 jupyter
+jupyterlab
 gensim
+nltk
+spacy
+sklearn
 matplotlib
 bokeh
-
+pyLDAvis
