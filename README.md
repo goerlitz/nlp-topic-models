@@ -1,12 +1,12 @@
 # Natural Language Processing (NLP) using Topic Modeling
 
-Application of topic models for topic extraction and similarity search.
-
-With special focus on German texts.
+Application of topic model with special focus on German texts.
 
 **Datasets:**
 
-  * German political speeches
+  * [German Political Speeches](http://purl.org/corpus/german-speeches)
+  * **`TODO`** [Offenes Parlament](https://github.com/Datenschule/offenesparlament-data)
+  * **`TODO`** [Project Gutenberg](https://www.gutenberg.org/)
   * **`TODO`** German news articles
   * **`TODO`** German Wikipedia articles
 
@@ -20,10 +20,12 @@ With special focus on German texts.
 
   * Gensim
   * Mallet
+  * **`TODO`** [lda](https://pythonhosted.org/lda/)
   * **`TODO`** NLTK
   * **`TODO`** sklearn
-  * **`TODO`** BigARTM](http://bigartm.org/)
+  * **`TODO`** [BigARTM](http://bigartm.org/)
   * **`TODO`** [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) (Online LDA)
+  * **`TODO`** https://github.com/WZBSocialScienceCenter/tmtoolkit
 
 ## Useful and inspirational resources
 
@@ -48,6 +50,10 @@ About: Building, Evaluating, Visualizing Topic Models
     * [Evaluation of Topic Modeling: Topic Coherence](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/) (2018-05-03)
   * [Towards Data Science](https://towardsdatascience.com/)
     * [The complete guide for topics extraction with LDA (Latent Dirichlet Allocation) in Python](https://towardsdatascience.com/the-complete-guide-for-topics-extraction-with-lda-latent-dirichlet-allocation-in-python-4d0200d0be98) (2018-12-14)
+  * [WZB Data Science Blog (NLP)](https://datascience.blog.wzb.eu/category/nlp/)
+    * [Topic Modeling – Background, Hyperparameters and Common pitfalls](https://datascience.blog.wzb.eu/2018/01/26/slides-on-topic-modeling-background-hyperparameters-and-common-pitfalls/) (2018-01-26)
+    * [Practical Topic Modeling: Preparation, Evaluation, Visualization](https://datascience.blog.wzb.eu/2018/05/17/slides-on-practical-topic-modeling-preparation-evaluation-visualization/) (2018-05-17)
+    * [A topic model for the debates of the 18th German Bundestag](https://github.com/WZBSocialScienceCenter/tm_bundestag)
 
 ### Topic Models applied on Wikipedia
 
