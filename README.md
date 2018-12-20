@@ -25,7 +25,8 @@ Application of topic model with special focus on German texts.
   * **`TODO`** sklearn
   * **`TODO`** [BigARTM](http://bigartm.org/)
   * **`TODO`** [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) (Online LDA)
-  * **`TODO`** https://github.com/WZBSocialScienceCenter/tmtoolkit
+  * **`TODO`** [tmtoolkit](https://github.com/WZBSocialScienceCenter/tmtoolkit)
+  * **`TODO`** [tcma](http://ilcm.informatik.uni-leipzig.de/software/download/)
 
 ## Useful and inspirational resources
 
@@ -53,6 +54,7 @@ About: Building, Evaluating, Visualizing Topic Models
   * [WZB Data Science Blog (NLP)](https://datascience.blog.wzb.eu/category/nlp/)
     * [Topic Modeling – Background, Hyperparameters and Common pitfalls](https://datascience.blog.wzb.eu/2018/01/26/slides-on-topic-modeling-background-hyperparameters-and-common-pitfalls/) (2018-01-26)
     * [Practical Topic Modeling: Preparation, Evaluation, Visualization](https://datascience.blog.wzb.eu/2018/05/17/slides-on-practical-topic-modeling-preparation-evaluation-visualization/) (2018-05-17)
+    * [Topic Model Evaluation in Python with tmtoolkit](https://datascience.blog.wzb.eu/2017/11/09/topic-modeling-evaluation-in-python-with-tmtoolkit/) (2017-11-09)
     * [A topic model for the debates of the 18th German Bundestag](https://github.com/WZBSocialScienceCenter/tm_bundestag)
 
 ### Topic Models applied on Wikipedia
@@ -63,3 +65,27 @@ About: Building, Evaluating, Visualizing Topic Models
 ### Other NLP
 
   * https://github.com/adbar/German-NLP
+
+## Research
+
+  * [Abteilung Automatische Sprachverarbeitung, Universität Leipzig](http://asv.informatik.uni-leipzig.de/)
+    * [Leipzig Corpus Miner](http://lcm.informatik.uni-leipzig.de/)
+
+## Data Sources
+
+  * [Link List - Wissenschaftszentrum Berlin für Sozialforschung](https://wzb.eu/de/literatur-daten/suchen-finden/datenquellen)
+  * [Link List - Institut für deutsche Sprache und Linguistik (HU Berlin)](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/links/korpora_links)
+  * [POLLUX - Informationsdienst Politikwissenschaft](https://www.pollux-fid.de/)
+  * [German Microdata Lab (gesis)](https://www.gesis.org/institut/forschungsdatenzentren/fdz-german-microdata-lab/)
+  * [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download)
+  * [DWDS Corpora](https://www.dwds.de/d/korpora)
+
+## Bibliography
+
+**LDA**
+
+  * David M. Blei, Andrew Y. Ng, Michael I. Jordan. *Latent Dirichlet Allocation*. In: Journal of Machine Learning Research, 2003
+
+**Sentiment**
+
+  * R. Remus, U. Quasthoff & G. Heyer: *SentiWS - a Publicly Available German-language Resource for Sentiment Analysis*. In: Proceedings of the 7th International Language Ressources and Evaluation (LREC'10), pp. 1168-1171, 2010
