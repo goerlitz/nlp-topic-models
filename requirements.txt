@@ -4,9 +4,12 @@ pandas
 jupyter
 jupyterlab
 gensim
+lda
 nltk
 spacy
 sklearn
 matplotlib
 bokeh
 pyLDAvis
+pattern
+tmtoolkit

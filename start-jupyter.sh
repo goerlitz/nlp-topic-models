@@ -7,4 +7,5 @@ source .venv/bin/activate
 
 pip install -U -r requirements.txt
 
-jupyter notebook
+# jupyter notebook
+jupyter lab
