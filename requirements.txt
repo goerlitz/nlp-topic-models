@@ -13,3 +13,5 @@ bokeh
 pyLDAvis
 pattern
 tmtoolkit
+bs4
+
